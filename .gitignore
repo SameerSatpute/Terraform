@@ -1,0 +1,3 @@
+# Ignore Terraform keys
+terra-key
+terra-key.pub
